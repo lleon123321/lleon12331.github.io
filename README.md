@@ -1,8 +1,8 @@
-# lleon123321.github.io
+Web Design2
 
 Leo Leon
 
-El Centro College 
+El Centro College -- IMED 2415 
 
 1. Unit 1
 2. Unit 2
